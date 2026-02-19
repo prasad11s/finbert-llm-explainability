@@ -1,0 +1,11 @@
+transformers==4.36.0
+torch==2.1.0
+shap
+lime
+gradio
+matplotlib
+numpy
+scikit-learn
+datasets
+seaborn
+pandas
