@@ -1,0 +1,592 @@
+text,word,shap_value,predicted_label,true_label,is_correct
+$BYND - JPMorgan reels in expectations on Beyond Meat https://t.co/bd0xbFGjkT,$,0.03941773413680494,negative,negative,True
+$BYND - JPMorgan reels in expectations on Beyond Meat https://t.co/bd0xbFGjkT,BYND - ,0.08548629586584866,negative,negative,True
+$BYND - JPMorgan reels in expectations on Beyond Meat https://t.co/bd0xbFGjkT,JPMorgan ,0.08725198020692915,negative,negative,True
+$BYND - JPMorgan reels in expectations on Beyond Meat https://t.co/bd0xbFGjkT,reels ,0.6113102665403858,negative,negative,True
+$BYND - JPMorgan reels in expectations on Beyond Meat https://t.co/bd0xbFGjkT,in ,-0.142844557762146,negative,negative,True
+$BYND - JPMorgan reels in expectations on Beyond Meat https://t.co/bd0xbFGjkT,expectations ,0.10560669959522784,negative,negative,True
+$BYND - JPMorgan reels in expectations on Beyond Meat https://t.co/bd0xbFGjkT,on ,0.034113261848688126,negative,negative,True
+$BYND - JPMorgan reels in expectations on Beyond Meat https://t.co/bd0xbFGjkT,Beyond ,-0.04570068349130452,negative,negative,True
+$BYND - JPMorgan reels in expectations on Beyond Meat https://t.co/bd0xbFGjkT,Meat ,-0.05160464835353196,negative,negative,True
+$BYND - JPMorgan reels in expectations on Beyond Meat https://t.co/bd0xbFGjkT,https://,-0.0765539335552603,negative,negative,True
+$BYND - JPMorgan reels in expectations on Beyond Meat https://t.co/bd0xbFGjkT,t.,0.0073604549979791045,negative,negative,True
+$BYND - JPMorgan reels in expectations on Beyond Meat https://t.co/bd0xbFGjkT,co/,-0.010950818075798452,negative,negative,True
+$BYND - JPMorgan reels in expectations on Beyond Meat https://t.co/bd0xbFGjkT,bd0xbFGjkT,0.02807622728869319,negative,negative,True
+$CCL $RCL - Nomura points to bookings weakness at Carnival and Royal Caribbean https://t.co/yGjpT2ReD3,$,-0.0013342092279344797,negative,negative,True
+$CCL $RCL - Nomura points to bookings weakness at Carnival and Royal Caribbean https://t.co/yGjpT2ReD3,CCL $,-0.00016423920169472694,negative,negative,True
+$CCL $RCL - Nomura points to bookings weakness at Carnival and Royal Caribbean https://t.co/yGjpT2ReD3,RCL - ,-0.001222906052134931,negative,negative,True
+$CCL $RCL - Nomura points to bookings weakness at Carnival and Royal Caribbean https://t.co/yGjpT2ReD3,Nomura ,0.0017852132441475987,negative,negative,True
+$CCL $RCL - Nomura points to bookings weakness at Carnival and Royal Caribbean https://t.co/yGjpT2ReD3,points ,0.015503049216931686,negative,negative,True
+$CCL $RCL - Nomura points to bookings weakness at Carnival and Royal Caribbean https://t.co/yGjpT2ReD3,to ,-0.0018507079512346536,negative,negative,True
+$CCL $RCL - Nomura points to bookings weakness at Carnival and Royal Caribbean https://t.co/yGjpT2ReD3,bookings ,0.11024345029727556,negative,negative,True
+$CCL $RCL - Nomura points to bookings weakness at Carnival and Royal Caribbean https://t.co/yGjpT2ReD3,weakness ,0.8077754995611031,negative,negative,True
+$CCL $RCL - Nomura points to bookings weakness at Carnival and Royal Caribbean https://t.co/yGjpT2ReD3,at ,-0.0005932076019234955,negative,negative,True
+$CCL $RCL - Nomura points to bookings weakness at Carnival and Royal Caribbean https://t.co/yGjpT2ReD3,Carnival ,0.0047853366122581065,negative,negative,True
+$CCL $RCL - Nomura points to bookings weakness at Carnival and Royal Caribbean https://t.co/yGjpT2ReD3,and ,-0.0018407234456390142,negative,negative,True
+$CCL $RCL - Nomura points to bookings weakness at Carnival and Royal Caribbean https://t.co/yGjpT2ReD3,Royal ,-0.0019805976189672947,negative,negative,True
+$CCL $RCL - Nomura points to bookings weakness at Carnival and Royal Caribbean https://t.co/yGjpT2ReD3,Caribbean ,-0.003767968388274312,negative,negative,True
+$CCL $RCL - Nomura points to bookings weakness at Carnival and Royal Caribbean https://t.co/yGjpT2ReD3,https://,-0.00025505409575998783,negative,negative,True
+$CCL $RCL - Nomura points to bookings weakness at Carnival and Royal Caribbean https://t.co/yGjpT2ReD3,t.,0.005589416716247797,negative,negative,True
+$CCL $RCL - Nomura points to bookings weakness at Carnival and Royal Caribbean https://t.co/yGjpT2ReD3,co/,0.0028064767830073833,negative,negative,True
+$CCL $RCL - Nomura points to bookings weakness at Carnival and Royal Caribbean https://t.co/yGjpT2ReD3,yGjpT2ReD3,-0.008808054029941559,negative,negative,True
+"$CX - Cemex cut at Credit Suisse, J.P. Morgan on weak building outlook https://t.co/KN1g4AWFIb",$,0.001466813264414668,negative,negative,True
+"$CX - Cemex cut at Credit Suisse, J.P. Morgan on weak building outlook https://t.co/KN1g4AWFIb",CX - ,-0.005116377025842667,negative,negative,True
+"$CX - Cemex cut at Credit Suisse, J.P. Morgan on weak building outlook https://t.co/KN1g4AWFIb",Cemex ,0.0011229141964577138,negative,negative,True
+"$CX - Cemex cut at Credit Suisse, J.P. Morgan on weak building outlook https://t.co/KN1g4AWFIb",cut ,0.4276358967763372,negative,negative,True
+"$CX - Cemex cut at Credit Suisse, J.P. Morgan on weak building outlook https://t.co/KN1g4AWFIb",at ,-0.006032648496329784,negative,negative,True
+"$CX - Cemex cut at Credit Suisse, J.P. Morgan on weak building outlook https://t.co/KN1g4AWFIb",Credit ,0.017837568651884794,negative,negative,True
+"$CX - Cemex cut at Credit Suisse, J.P. Morgan on weak building outlook https://t.co/KN1g4AWFIb","Suisse, ",-0.01096021430566907,negative,negative,True
+"$CX - Cemex cut at Credit Suisse, J.P. Morgan on weak building outlook https://t.co/KN1g4AWFIb",J.,-0.015119946096092463,negative,negative,True
+"$CX - Cemex cut at Credit Suisse, J.P. Morgan on weak building outlook https://t.co/KN1g4AWFIb",P. ,0.003794107586145401,negative,negative,True
+"$CX - Cemex cut at Credit Suisse, J.P. Morgan on weak building outlook https://t.co/KN1g4AWFIb",Morgan ,0.004133746260777116,negative,negative,True
+"$CX - Cemex cut at Credit Suisse, J.P. Morgan on weak building outlook https://t.co/KN1g4AWFIb",on ,-0.007828861474990845,negative,negative,True
+"$CX - Cemex cut at Credit Suisse, J.P. Morgan on weak building outlook https://t.co/KN1g4AWFIb",weak ,0.5199391564819962,negative,negative,True
+"$CX - Cemex cut at Credit Suisse, J.P. Morgan on weak building outlook https://t.co/KN1g4AWFIb",building ,0.006655499048065394,negative,negative,True
+"$CX - Cemex cut at Credit Suisse, J.P. Morgan on weak building outlook https://t.co/KN1g4AWFIb",outlook ,0.03718255931744352,negative,negative,True
+"$CX - Cemex cut at Credit Suisse, J.P. Morgan on weak building outlook https://t.co/KN1g4AWFIb",https://,-0.04905928089283407,negative,negative,True
+"$CX - Cemex cut at Credit Suisse, J.P. Morgan on weak building outlook https://t.co/KN1g4AWFIb",t.,0.004949439549818635,negative,negative,True
+"$CX - Cemex cut at Credit Suisse, J.P. Morgan on weak building outlook https://t.co/KN1g4AWFIb",co/,0.019915007753297687,negative,negative,True
+"$CX - Cemex cut at Credit Suisse, J.P. Morgan on weak building outlook https://t.co/KN1g4AWFIb",KN1g4AWFIb,-0.0315036834217608,negative,negative,True
+$FNKO - Funko slides after Piper Jaffray PT cut https://t.co/z37IJmCQzB,$,0.1511519931955263,negative,negative,True
+$FNKO - Funko slides after Piper Jaffray PT cut https://t.co/z37IJmCQzB,FNKO - ,0.05975890613626689,negative,negative,True
+$FNKO - Funko slides after Piper Jaffray PT cut https://t.co/z37IJmCQzB,Funko ,-0.01429038995411247,negative,negative,True
+$FNKO - Funko slides after Piper Jaffray PT cut https://t.co/z37IJmCQzB,slides ,0.4972070703515783,negative,negative,True
+$FNKO - Funko slides after Piper Jaffray PT cut https://t.co/z37IJmCQzB,after ,0.10536215419415385,negative,negative,True
+$FNKO - Funko slides after Piper Jaffray PT cut https://t.co/z37IJmCQzB,Piper ,-0.10703144001308829,negative,negative,True
+$FNKO - Funko slides after Piper Jaffray PT cut https://t.co/z37IJmCQzB,Jaffray ,-0.10697340196929872,negative,negative,True
+$FNKO - Funko slides after Piper Jaffray PT cut https://t.co/z37IJmCQzB,PT ,0.05102271097712219,negative,negative,True
+$FNKO - Funko slides after Piper Jaffray PT cut https://t.co/z37IJmCQzB,cut ,0.308702043723315,negative,negative,True
+$FNKO - Funko slides after Piper Jaffray PT cut https://t.co/z37IJmCQzB,https://,0.029495832044631243,negative,negative,True
+$FNKO - Funko slides after Piper Jaffray PT cut https://t.co/z37IJmCQzB,t.,-0.010061617475003004,negative,negative,True
+$FNKO - Funko slides after Piper Jaffray PT cut https://t.co/z37IJmCQzB,co/,0.008217919617891312,negative,negative,True
+$FNKO - Funko slides after Piper Jaffray PT cut https://t.co/z37IJmCQzB,z37IJmCQzB,-0.07912554265931249,negative,negative,True
+$GM - GM loses a bull https://t.co/tdUfG5HbXy,$,-0.002446404891088605,negative,negative,True
+$GM - GM loses a bull https://t.co/tdUfG5HbXy,GM - ,0.027790949447080493,negative,negative,True
+$GM - GM loses a bull https://t.co/tdUfG5HbXy,GM ,-0.020621492294594646,negative,negative,True
+$GM - GM loses a bull https://t.co/tdUfG5HbXy,loses ,0.8726382025051862,negative,negative,True
+$GM - GM loses a bull https://t.co/tdUfG5HbXy,a ,0.08174554607830942,negative,negative,True
+$GM - GM loses a bull https://t.co/tdUfG5HbXy,bull ,0.028478281339630485,negative,negative,True
+$GM - GM loses a bull https://t.co/tdUfG5HbXy,https://,-0.15111647662706673,negative,negative,True
+$GM - GM loses a bull https://t.co/tdUfG5HbXy,t.,0.012073331279680133,negative,negative,True
+$GM - GM loses a bull https://t.co/tdUfG5HbXy,co/,0.007076522568240762,negative,negative,True
+$GM - GM loses a bull https://t.co/tdUfG5HbXy,tdUfG5HbXy,-0.015736875357106328,negative,negative,True
+$GTT: Cowen cuts to Market Perform,$,-0.018743244232609868,negative,negative,True
+$GTT: Cowen cuts to Market Perform,GTT: ,0.0447141092736274,negative,negative,True
+$GTT: Cowen cuts to Market Perform,Cowen ,-0.03280934342183173,negative,negative,True
+$GTT: Cowen cuts to Market Perform,cuts ,0.5182931798044592,negative,negative,True
+$GTT: Cowen cuts to Market Perform,to ,-0.25718970177695155,negative,negative,True
+$GTT: Cowen cuts to Market Perform,Market ,0.12120319623500109,negative,negative,True
+$GTT: Cowen cuts to Market Perform,Perform,0.02872045198455453,negative,negative,True
+$HNHAF $HNHPD $AAPL - Trendforce cuts iPhone estimate after Foxconn delay https://t.co/rlnEwzlzzS,$,-0.00932886335067451,negative,negative,True
+$HNHAF $HNHPD $AAPL - Trendforce cuts iPhone estimate after Foxconn delay https://t.co/rlnEwzlzzS,HNHAF $,-0.01101641170680523,negative,negative,True
+$HNHAF $HNHPD $AAPL - Trendforce cuts iPhone estimate after Foxconn delay https://t.co/rlnEwzlzzS,HNHPD $,-0.00853069731965661,negative,negative,True
+$HNHAF $HNHPD $AAPL - Trendforce cuts iPhone estimate after Foxconn delay https://t.co/rlnEwzlzzS,AAPL - ,0.0011704165954142809,negative,negative,True
+$HNHAF $HNHPD $AAPL - Trendforce cuts iPhone estimate after Foxconn delay https://t.co/rlnEwzlzzS,Trendforce ,-0.031853560416493565,negative,negative,True
+$HNHAF $HNHPD $AAPL - Trendforce cuts iPhone estimate after Foxconn delay https://t.co/rlnEwzlzzS,cuts ,0.7255973704741336,negative,negative,True
+$HNHAF $HNHPD $AAPL - Trendforce cuts iPhone estimate after Foxconn delay https://t.co/rlnEwzlzzS,iPhone ,0.06378402945119888,negative,negative,True
+$HNHAF $HNHPD $AAPL - Trendforce cuts iPhone estimate after Foxconn delay https://t.co/rlnEwzlzzS,estimate ,0.08362829114776105,negative,negative,True
+$HNHAF $HNHPD $AAPL - Trendforce cuts iPhone estimate after Foxconn delay https://t.co/rlnEwzlzzS,after ,0.0022901317570358515,negative,negative,True
+$HNHAF $HNHPD $AAPL - Trendforce cuts iPhone estimate after Foxconn delay https://t.co/rlnEwzlzzS,Foxconn ,-0.042396754724904895,negative,negative,True
+$HNHAF $HNHPD $AAPL - Trendforce cuts iPhone estimate after Foxconn delay https://t.co/rlnEwzlzzS,delay ,0.13257421890739352,negative,negative,True
+$HNHAF $HNHPD $AAPL - Trendforce cuts iPhone estimate after Foxconn delay https://t.co/rlnEwzlzzS,https://,-0.1454983811127022,negative,negative,True
+$HNHAF $HNHPD $AAPL - Trendforce cuts iPhone estimate after Foxconn delay https://t.co/rlnEwzlzzS,t.,0.004873771918937564,negative,negative,True
+$HNHAF $HNHPD $AAPL - Trendforce cuts iPhone estimate after Foxconn delay https://t.co/rlnEwzlzzS,co/,0.003984395647421479,negative,negative,True
+$HNHAF $HNHPD $AAPL - Trendforce cuts iPhone estimate after Foxconn delay https://t.co/rlnEwzlzzS,rlnEwzlzzS,1.760106533765793e-05,negative,negative,True
+"$HXL - Citing aero ties, Wells slashes PT on Hexcel https://t.co/wU5P2i8WBU",$,0.013003311876673251,negative,negative,True
+"$HXL - Citing aero ties, Wells slashes PT on Hexcel https://t.co/wU5P2i8WBU",HXL - ,-0.017744916782248765,negative,negative,True
+"$HXL - Citing aero ties, Wells slashes PT on Hexcel https://t.co/wU5P2i8WBU",Citing ,0.014023227151483297,negative,negative,True
+"$HXL - Citing aero ties, Wells slashes PT on Hexcel https://t.co/wU5P2i8WBU",aero ,-0.0017585055902600288,negative,negative,True
+"$HXL - Citing aero ties, Wells slashes PT on Hexcel https://t.co/wU5P2i8WBU","ties, ",0.0009424794698134065,negative,negative,True
+"$HXL - Citing aero ties, Wells slashes PT on Hexcel https://t.co/wU5P2i8WBU",Wells ,-0.011105786077678204,negative,negative,True
+"$HXL - Citing aero ties, Wells slashes PT on Hexcel https://t.co/wU5P2i8WBU",slashes ,0.8418164132162929,negative,negative,True
+"$HXL - Citing aero ties, Wells slashes PT on Hexcel https://t.co/wU5P2i8WBU",PT ,0.06857838795986027,negative,negative,True
+"$HXL - Citing aero ties, Wells slashes PT on Hexcel https://t.co/wU5P2i8WBU",on ,0.017440484021790326,negative,negative,True
+"$HXL - Citing aero ties, Wells slashes PT on Hexcel https://t.co/wU5P2i8WBU",Hexcel ,-0.010207924875430763,negative,negative,True
+"$HXL - Citing aero ties, Wells slashes PT on Hexcel https://t.co/wU5P2i8WBU",https://,0.00042681675404310226,negative,negative,True
+"$HXL - Citing aero ties, Wells slashes PT on Hexcel https://t.co/wU5P2i8WBU",t.,0.0032254585530608892,negative,negative,True
+"$HXL - Citing aero ties, Wells slashes PT on Hexcel https://t.co/wU5P2i8WBU",co/,0.01223447429947555,negative,negative,True
+"$HXL - Citing aero ties, Wells slashes PT on Hexcel https://t.co/wU5P2i8WBU",wU5P2i8WBU,-0.011194889200851321,negative,negative,True
+$I - Intelsat cut to Market Perform at Raymond James https://t.co/YsvsMSQRIb,$,0.08086437842575833,negative,negative,True
+$I - Intelsat cut to Market Perform at Raymond James https://t.co/YsvsMSQRIb,I - ,-0.01866351516218856,negative,negative,True
+$I - Intelsat cut to Market Perform at Raymond James https://t.co/YsvsMSQRIb,Intelsat ,-0.010040347464382648,negative,negative,True
+$I - Intelsat cut to Market Perform at Raymond James https://t.co/YsvsMSQRIb,cut ,0.6846697776345536,negative,negative,True
+$I - Intelsat cut to Market Perform at Raymond James https://t.co/YsvsMSQRIb,to ,-0.2048993292846717,negative,negative,True
+$I - Intelsat cut to Market Perform at Raymond James https://t.co/YsvsMSQRIb,Market ,0.15512205514824018,negative,negative,True
+$I - Intelsat cut to Market Perform at Raymond James https://t.co/YsvsMSQRIb,Perform ,0.1102957598050125,negative,negative,True
+$I - Intelsat cut to Market Perform at Raymond James https://t.co/YsvsMSQRIb,at ,0.05285641324007884,negative,negative,True
+$I - Intelsat cut to Market Perform at Raymond James https://t.co/YsvsMSQRIb,Raymond ,0.05048125144094229,negative,negative,True
+$I - Intelsat cut to Market Perform at Raymond James https://t.co/YsvsMSQRIb,James ,-0.01205213158391416,negative,negative,True
+$I - Intelsat cut to Market Perform at Raymond James https://t.co/YsvsMSQRIb,https://,-0.07029536133632064,negative,negative,True
+$I - Intelsat cut to Market Perform at Raymond James https://t.co/YsvsMSQRIb,t.,0.009051873115822673,negative,negative,True
+$I - Intelsat cut to Market Perform at Raymond James https://t.co/YsvsMSQRIb,co/,0.01396857132203877,negative,negative,True
+$I - Intelsat cut to Market Perform at Raymond James https://t.co/YsvsMSQRIb,YsvsMSQRIb,0.0003440047148615122,negative,negative,True
+$AMD - AMD's Navi shows strong adoption - BofA https://t.co/WnCksfl1gX,$,0.021188906859606504,positive,positive,True
+$AMD - AMD's Navi shows strong adoption - BofA https://t.co/WnCksfl1gX,AMD - ,-0.007055248599499464,positive,positive,True
+$AMD - AMD's Navi shows strong adoption - BofA https://t.co/WnCksfl1gX,AMD',0.013284977292641997,positive,positive,True
+$AMD - AMD's Navi shows strong adoption - BofA https://t.co/WnCksfl1gX,s ,0.004422020399942994,positive,positive,True
+$AMD - AMD's Navi shows strong adoption - BofA https://t.co/WnCksfl1gX,Navi ,-0.0432898283470422,positive,positive,True
+$AMD - AMD's Navi shows strong adoption - BofA https://t.co/WnCksfl1gX,shows ,0.10430042236112058,positive,positive,True
+$AMD - AMD's Navi shows strong adoption - BofA https://t.co/WnCksfl1gX,strong ,0.6583486711606383,positive,positive,True
+$AMD - AMD's Navi shows strong adoption - BofA https://t.co/WnCksfl1gX,adoption - ,0.11658929707482457,positive,positive,True
+$AMD - AMD's Navi shows strong adoption - BofA https://t.co/WnCksfl1gX,BofA ,0.0012465573381632566,positive,positive,True
+$AMD - AMD's Navi shows strong adoption - BofA https://t.co/WnCksfl1gX,https://,-0.032845537876710296,positive,positive,True
+$AMD - AMD's Navi shows strong adoption - BofA https://t.co/WnCksfl1gX,t.,-0.005507805966772139,positive,positive,True
+$AMD - AMD's Navi shows strong adoption - BofA https://t.co/WnCksfl1gX,co/,0.003812360460869968,positive,positive,True
+$AMD - AMD's Navi shows strong adoption - BofA https://t.co/WnCksfl1gX,WnCksfl1gX,-0.002005137735977769,positive,positive,True
+$ANCUF: BMO Capital Markets ups to Outperform,$,0.06971186026930809,positive,positive,True
+$ANCUF: BMO Capital Markets ups to Outperform,ANCUF: ,0.014611602760851383,positive,positive,True
+$ANCUF: BMO Capital Markets ups to Outperform,BMO ,0.04905440332368016,positive,positive,True
+$ANCUF: BMO Capital Markets ups to Outperform,Capital ,-0.12814121833071113,positive,positive,True
+$ANCUF: BMO Capital Markets ups to Outperform,Markets ,-0.03525879047811031,positive,positive,True
+$ANCUF: BMO Capital Markets ups to Outperform,ups ,0.07006780430674553,positive,positive,True
+$ANCUF: BMO Capital Markets ups to Outperform,to ,0.26824977062642574,positive,positive,True
+$ANCUF: BMO Capital Markets ups to Outperform,Outperform,0.46834776923060417,positive,positive,True
+$CNC *S&P Raises Centene Corp. Rtg To BBB- From BB+; Outlk Stable*,$,0.05200572311878204,positive,positive,True
+$CNC *S&P Raises Centene Corp. Rtg To BBB- From BB+; Outlk Stable*,CNC *,0.0251585366204381,positive,positive,True
+$CNC *S&P Raises Centene Corp. Rtg To BBB- From BB+; Outlk Stable*,S&,0.013446316355839372,positive,positive,True
+$CNC *S&P Raises Centene Corp. Rtg To BBB- From BB+; Outlk Stable*,P ,0.01666557672433555,positive,positive,True
+$CNC *S&P Raises Centene Corp. Rtg To BBB- From BB+; Outlk Stable*,Raises ,0.17270789598114789,positive,positive,True
+$CNC *S&P Raises Centene Corp. Rtg To BBB- From BB+; Outlk Stable*,Centene ,0.007083515869453549,positive,positive,True
+$CNC *S&P Raises Centene Corp. Rtg To BBB- From BB+; Outlk Stable*,Corp. ,-0.04863659502007067,positive,positive,True
+$CNC *S&P Raises Centene Corp. Rtg To BBB- From BB+; Outlk Stable*,Rtg ,-0.02537976228632033,positive,positive,True
+$CNC *S&P Raises Centene Corp. Rtg To BBB- From BB+; Outlk Stable*,To ,0.07472241343930364,positive,positive,True
+$CNC *S&P Raises Centene Corp. Rtg To BBB- From BB+; Outlk Stable*,BBB- ,0.04159058863297105,positive,positive,True
+$CNC *S&P Raises Centene Corp. Rtg To BBB- From BB+; Outlk Stable*,From ,0.28176716482266784,positive,positive,True
+$CNC *S&P Raises Centene Corp. Rtg To BBB- From BB+; Outlk Stable*,BB+; ,0.16857873229309916,positive,positive,True
+$CNC *S&P Raises Centene Corp. Rtg To BBB- From BB+; Outlk Stable*,Outlk ,0.03961913101375103,positive,positive,True
+$CNC *S&P Raises Centene Corp. Rtg To BBB- From BB+; Outlk Stable*,Stable,0.015829751268029213,positive,positive,True
+$DE - Citi gives big boost to Deere PT https://t.co/MfhnyZe593,$,0.018562412937171757,positive,positive,True
+$DE - Citi gives big boost to Deere PT https://t.co/MfhnyZe593,DE - ,-0.009591778623871505,positive,positive,True
+$DE - Citi gives big boost to Deere PT https://t.co/MfhnyZe593,Citi ,-0.01348323083948344,positive,positive,True
+$DE - Citi gives big boost to Deere PT https://t.co/MfhnyZe593,gives ,-0.0006317471852526069,positive,positive,True
+$DE - Citi gives big boost to Deere PT https://t.co/MfhnyZe593,big ,0.1691806281451136,positive,positive,True
+$DE - Citi gives big boost to Deere PT https://t.co/MfhnyZe593,boost ,0.5905160026159137,positive,positive,True
+$DE - Citi gives big boost to Deere PT https://t.co/MfhnyZe593,to ,0.1016278532333672,positive,positive,True
+$DE - Citi gives big boost to Deere PT https://t.co/MfhnyZe593,Deere ,0.0025254585780203342,positive,positive,True
+$DE - Citi gives big boost to Deere PT https://t.co/MfhnyZe593,PT ,0.003036897862330079,positive,positive,True
+$DE - Citi gives big boost to Deere PT https://t.co/MfhnyZe593,https://,-0.030849549220874906,positive,positive,True
+$DE - Citi gives big boost to Deere PT https://t.co/MfhnyZe593,t.,-0.004879050422459841,positive,positive,True
+$DE - Citi gives big boost to Deere PT https://t.co/MfhnyZe593,co/,-0.0037565678358078003,positive,positive,True
+$DE - Citi gives big boost to Deere PT https://t.co/MfhnyZe593,MfhnyZe593,-0.011522952932864428,positive,positive,True
+$EBAY - Guggenheim sees favorable catalysts for eBay https://t.co/1adfDkHeaw,$,0.020339901093393564,positive,positive,True
+$EBAY - Guggenheim sees favorable catalysts for eBay https://t.co/1adfDkHeaw,EBAY - ,-0.011158592533320189,positive,positive,True
+$EBAY - Guggenheim sees favorable catalysts for eBay https://t.co/1adfDkHeaw,Guggenheim ,-0.005808805814012885,positive,positive,True
+$EBAY - Guggenheim sees favorable catalysts for eBay https://t.co/1adfDkHeaw,sees ,0.0731261691544205,positive,positive,True
+$EBAY - Guggenheim sees favorable catalysts for eBay https://t.co/1adfDkHeaw,favorable ,0.4781101471744478,positive,positive,True
+$EBAY - Guggenheim sees favorable catalysts for eBay https://t.co/1adfDkHeaw,catalysts ,0.18975190492346883,positive,positive,True
+$EBAY - Guggenheim sees favorable catalysts for eBay https://t.co/1adfDkHeaw,for ,0.04437896516174078,positive,positive,True
+$EBAY - Guggenheim sees favorable catalysts for eBay https://t.co/1adfDkHeaw,eBay ,0.0454176370985806,positive,positive,True
+$EBAY - Guggenheim sees favorable catalysts for eBay https://t.co/1adfDkHeaw,https://,-0.03408231679350138,positive,positive,True
+$EBAY - Guggenheim sees favorable catalysts for eBay https://t.co/1adfDkHeaw,t.,-0.005632340908050537,positive,positive,True
+$EBAY - Guggenheim sees favorable catalysts for eBay https://t.co/1adfDkHeaw,co/,-0.0014185106847435236,positive,positive,True
+$EBAY - Guggenheim sees favorable catalysts for eBay https://t.co/1adfDkHeaw,1adfDkHeaw,-0.0173628234770149,positive,positive,True
+$FCX - Freeport upgraded as Credit Suisse sees big buying opportunity https://t.co/d4TGqrNi7Y,$,0.08733088010922074,positive,positive,True
+$FCX - Freeport upgraded as Credit Suisse sees big buying opportunity https://t.co/d4TGqrNi7Y,FCX - ,0.03720853151753545,positive,positive,True
+$FCX - Freeport upgraded as Credit Suisse sees big buying opportunity https://t.co/d4TGqrNi7Y,Freeport ,0.006249533034861088,positive,positive,True
+$FCX - Freeport upgraded as Credit Suisse sees big buying opportunity https://t.co/d4TGqrNi7Y,upgraded ,0.36565835773944855,positive,positive,True
+$FCX - Freeport upgraded as Credit Suisse sees big buying opportunity https://t.co/d4TGqrNi7Y,as ,-0.02443410432897508,positive,positive,True
+$FCX - Freeport upgraded as Credit Suisse sees big buying opportunity https://t.co/d4TGqrNi7Y,Credit ,0.030353505862876773,positive,positive,True
+$FCX - Freeport upgraded as Credit Suisse sees big buying opportunity https://t.co/d4TGqrNi7Y,Suisse ,0.009243451757356524,positive,positive,True
+$FCX - Freeport upgraded as Credit Suisse sees big buying opportunity https://t.co/d4TGqrNi7Y,sees ,0.09986181766726077,positive,positive,True
+$FCX - Freeport upgraded as Credit Suisse sees big buying opportunity https://t.co/d4TGqrNi7Y,big ,0.08378681959584355,positive,positive,True
+$FCX - Freeport upgraded as Credit Suisse sees big buying opportunity https://t.co/d4TGqrNi7Y,buying ,0.11153939971700311,positive,positive,True
+$FCX - Freeport upgraded as Credit Suisse sees big buying opportunity https://t.co/d4TGqrNi7Y,opportunity ,0.10685191897209734,positive,positive,True
+$FCX - Freeport upgraded as Credit Suisse sees big buying opportunity https://t.co/d4TGqrNi7Y,https://,-0.14104640146251768,positive,positive,True
+$FCX - Freeport upgraded as Credit Suisse sees big buying opportunity https://t.co/d4TGqrNi7Y,t.,-0.0027009646873921156,positive,positive,True
+$FCX - Freeport upgraded as Credit Suisse sees big buying opportunity https://t.co/d4TGqrNi7Y,co/,0.014568076701834798,positive,positive,True
+$FCX - Freeport upgraded as Credit Suisse sees big buying opportunity https://t.co/d4TGqrNi7Y,d4TGqrNi7Y,0.05309327365830541,positive,positive,True
+$HAS - Hasbro gains after UBS upgrade https://t.co/taTMaip1uM,$,0.019558605272322893,positive,positive,True
+$HAS - Hasbro gains after UBS upgrade https://t.co/taTMaip1uM,HAS - ,-0.0007868180982768536,positive,positive,True
+$HAS - Hasbro gains after UBS upgrade https://t.co/taTMaip1uM,Hasbro ,0.012425176333636045,positive,positive,True
+$HAS - Hasbro gains after UBS upgrade https://t.co/taTMaip1uM,gains ,0.8189029521308839,positive,positive,True
+$HAS - Hasbro gains after UBS upgrade https://t.co/taTMaip1uM,after ,0.022673663217574358,positive,positive,True
+$HAS - Hasbro gains after UBS upgrade https://t.co/taTMaip1uM,UBS ,-0.004415391245856881,positive,positive,True
+$HAS - Hasbro gains after UBS upgrade https://t.co/taTMaip1uM,upgrade ,0.053299891646020114,positive,positive,True
+$HAS - Hasbro gains after UBS upgrade https://t.co/taTMaip1uM,https://,-0.07768670388031751,positive,positive,True
+$HAS - Hasbro gains after UBS upgrade https://t.co/taTMaip1uM,t.,-0.0059656326193362474,positive,positive,True
+$HAS - Hasbro gains after UBS upgrade https://t.co/taTMaip1uM,co/,-0.013358888914808631,positive,positive,True
+$HAS - Hasbro gains after UBS upgrade https://t.co/taTMaip1uM,taTMaip1uM,-0.021578588522970676,positive,positive,True
+$JD: Barclays ups to Overweight,$,0.07065404066815972,positive,positive,True
+$JD: Barclays ups to Overweight,JD: ,0.05763394897803664,positive,positive,True
+$JD: Barclays ups to Overweight,Barclays ,0.10606536502018571,positive,positive,True
+$JD: Barclays ups to Overweight,ups ,0.1379602155648172,positive,positive,True
+$JD: Barclays ups to Overweight,to ,0.2224367894232273,positive,positive,True
+$JD: Barclays ups to Overweight,Overweight,0.1385945975780487,positive,positive,True
+$KIM: Compass Point ups to Neutral,$,0.20477981260046363,positive,positive,True
+$KIM: Compass Point ups to Neutral,KIM: ,-0.025534169282764196,positive,positive,True
+$KIM: Compass Point ups to Neutral,Compass ,0.12099972181022167,positive,positive,True
+$KIM: Compass Point ups to Neutral,Point ,0.14066326804459095,positive,positive,True
+$KIM: Compass Point ups to Neutral,ups ,0.2676690649241209,positive,positive,True
+$KIM: Compass Point ups to Neutral,to ,0.0790645070374012,positive,positive,True
+$KIM: Compass Point ups to Neutral,Neutral,-0.006706813350319862,positive,positive,True
+$LB - MKM Partners puts a number on Victoria's Secret https://t.co/VSzHLqLBgE,$,-0.033378880470991135,neutral,neutral,True
+$LB - MKM Partners puts a number on Victoria's Secret https://t.co/VSzHLqLBgE,LB - ,-0.020996812731027603,neutral,neutral,True
+$LB - MKM Partners puts a number on Victoria's Secret https://t.co/VSzHLqLBgE,MKM ,0.027253109961748123,neutral,neutral,True
+$LB - MKM Partners puts a number on Victoria's Secret https://t.co/VSzHLqLBgE,Partners ,0.014457371085882187,neutral,neutral,True
+$LB - MKM Partners puts a number on Victoria's Secret https://t.co/VSzHLqLBgE,puts ,-0.06229216419160366,neutral,neutral,True
+$LB - MKM Partners puts a number on Victoria's Secret https://t.co/VSzHLqLBgE,a ,0.03717808239161968,neutral,neutral,True
+$LB - MKM Partners puts a number on Victoria's Secret https://t.co/VSzHLqLBgE,number ,0.03369195759296417,neutral,neutral,True
+$LB - MKM Partners puts a number on Victoria's Secret https://t.co/VSzHLqLBgE,on ,0.00452769547700882,neutral,neutral,True
+$LB - MKM Partners puts a number on Victoria's Secret https://t.co/VSzHLqLBgE,Victoria',0.009509224444627762,neutral,neutral,True
+$LB - MKM Partners puts a number on Victoria's Secret https://t.co/VSzHLqLBgE,s ,0.0185672827064991,neutral,neutral,True
+$LB - MKM Partners puts a number on Victoria's Secret https://t.co/VSzHLqLBgE,Secret ,-0.007374066859483719,neutral,neutral,True
+$LB - MKM Partners puts a number on Victoria's Secret https://t.co/VSzHLqLBgE,https://,-0.007073346525430679,neutral,neutral,True
+$LB - MKM Partners puts a number on Victoria's Secret https://t.co/VSzHLqLBgE,t.,0.0014521703124046326,neutral,neutral,True
+$LB - MKM Partners puts a number on Victoria's Secret https://t.co/VSzHLqLBgE,co/,0.014540061354637146,neutral,neutral,True
+$LB - MKM Partners puts a number on Victoria's Secret https://t.co/VSzHLqLBgE,VSzHLqLBgE,0.017894484102725983,neutral,neutral,True
+$WING - Baird returns to Wingstop bull camp https://t.co/KfPaweOVgo,$,-0.11076866509392858,neutral,neutral,True
+$WING - Baird returns to Wingstop bull camp https://t.co/KfPaweOVgo,WING - ,-0.060571127105504274,neutral,neutral,True
+$WING - Baird returns to Wingstop bull camp https://t.co/KfPaweOVgo,Baird ,0.015611339826136827,neutral,neutral,True
+$WING - Baird returns to Wingstop bull camp https://t.co/KfPaweOVgo,returns ,-0.19403873523697257,neutral,neutral,True
+$WING - Baird returns to Wingstop bull camp https://t.co/KfPaweOVgo,to ,0.017993913497775793,neutral,neutral,True
+$WING - Baird returns to Wingstop bull camp https://t.co/KfPaweOVgo,Wingstop ,0.10458869626745582,neutral,neutral,True
+$WING - Baird returns to Wingstop bull camp https://t.co/KfPaweOVgo,bull ,-0.04812383418902755,neutral,neutral,True
+$WING - Baird returns to Wingstop bull camp https://t.co/KfPaweOVgo,camp ,0.03721679421141744,neutral,neutral,True
+$WING - Baird returns to Wingstop bull camp https://t.co/KfPaweOVgo,https://,0.1508025974035263,neutral,neutral,True
+$WING - Baird returns to Wingstop bull camp https://t.co/KfPaweOVgo,t.,0.04896058142185211,neutral,neutral,True
+$WING - Baird returns to Wingstop bull camp https://t.co/KfPaweOVgo,co/,-0.008750297129154205,neutral,neutral,True
+$WING - Baird returns to Wingstop bull camp https://t.co/KfPaweOVgo,KfPaweOVgo,0.04538650065660477,neutral,neutral,True
+Analysts React To FCC Decision On Intelsat C-Band Spectrum Auction,Analysts ,-0.142535001039505,neutral,neutral,True
+Analysts React To FCC Decision On Intelsat C-Band Spectrum Auction,React ,-0.1331130415201187,neutral,neutral,True
+Analysts React To FCC Decision On Intelsat C-Band Spectrum Auction,To ,0.08172927051782608,neutral,neutral,True
+Analysts React To FCC Decision On Intelsat C-Band Spectrum Auction,FCC ,0.04494152218103409,neutral,neutral,True
+Analysts React To FCC Decision On Intelsat C-Band Spectrum Auction,Decision ,0.020009739324450493,neutral,neutral,True
+Analysts React To FCC Decision On Intelsat C-Band Spectrum Auction,On ,-0.11754546873271465,neutral,neutral,True
+Analysts React To FCC Decision On Intelsat C-Band Spectrum Auction,Intelsat ,-0.026124898344278336,neutral,neutral,True
+Analysts React To FCC Decision On Intelsat C-Band Spectrum Auction,C-,-0.011397432535886765,neutral,neutral,True
+Analysts React To FCC Decision On Intelsat C-Band Spectrum Auction,Band ,0.0037702657282352448,neutral,neutral,True
+Analysts React To FCC Decision On Intelsat C-Band Spectrum Auction,Spectrum ,0.012409675866365433,neutral,neutral,True
+Analysts React To FCC Decision On Intelsat C-Band Spectrum Auction,Auction,0.042239509522914886,neutral,neutral,True
+BRP Group started at hold with $18 stock price target at Jefferies,BRP ,0.003634680062532425,neutral,neutral,True
+BRP Group started at hold with $18 stock price target at Jefferies,Group ,0.026602160185575485,neutral,neutral,True
+BRP Group started at hold with $18 stock price target at Jefferies,started ,-0.041440654546022415,neutral,neutral,True
+BRP Group started at hold with $18 stock price target at Jefferies,at ,-0.0020535551011562347,neutral,neutral,True
+BRP Group started at hold with $18 stock price target at Jefferies,hold ,0.00763312354683876,neutral,neutral,True
+BRP Group started at hold with $18 stock price target at Jefferies,with $,-0.0483069084584713,neutral,neutral,True
+BRP Group started at hold with $18 stock price target at Jefferies,18 ,0.0295012965798378,neutral,neutral,True
+BRP Group started at hold with $18 stock price target at Jefferies,stock ,0.05110132694244385,neutral,neutral,True
+BRP Group started at hold with $18 stock price target at Jefferies,price ,-0.0003312230110168457,neutral,neutral,True
+BRP Group started at hold with $18 stock price target at Jefferies,target ,-0.004463404417037964,neutral,neutral,True
+BRP Group started at hold with $18 stock price target at Jefferies,at ,0.0044095441699028015,neutral,neutral,True
+BRP Group started at hold with $18 stock price target at Jefferies,Jefferies,0.027323581278324127,neutral,neutral,True
+"BTIG resumes coverage on range of healthcare stocks, neutral on AbbVie",BTIG ,0.10353550687432289,neutral,neutral,True
+"BTIG resumes coverage on range of healthcare stocks, neutral on AbbVie",resumes ,-0.1253361590206623,neutral,neutral,True
+"BTIG resumes coverage on range of healthcare stocks, neutral on AbbVie",coverage ,-0.007607646286487579,neutral,neutral,True
+"BTIG resumes coverage on range of healthcare stocks, neutral on AbbVie",on ,0.11938702315092087,neutral,neutral,True
+"BTIG resumes coverage on range of healthcare stocks, neutral on AbbVie",range ,-0.06629708409309387,neutral,neutral,True
+"BTIG resumes coverage on range of healthcare stocks, neutral on AbbVie",of ,0.004410803318023682,neutral,neutral,True
+"BTIG resumes coverage on range of healthcare stocks, neutral on AbbVie",healthcare ,-0.02689962647855282,neutral,neutral,True
+"BTIG resumes coverage on range of healthcare stocks, neutral on AbbVie","stocks, ",0.04245925508439541,neutral,neutral,True
+"BTIG resumes coverage on range of healthcare stocks, neutral on AbbVie",neutral ,-0.025470290333032608,neutral,neutral,True
+"BTIG resumes coverage on range of healthcare stocks, neutral on AbbVie",on ,0.0035347528755664825,neutral,neutral,True
+"BTIG resumes coverage on range of healthcare stocks, neutral on AbbVie",AbbVie,0.02338123321533203,neutral,neutral,True
+Bull camp empty on Sally Beauty,Bull ,-0.013884007930755615,neutral,neutral,True
+Bull camp empty on Sally Beauty,camp ,0.03714685142040253,neutral,neutral,True
+Bull camp empty on Sally Beauty,empty ,-0.23847297951579094,neutral,neutral,True
+Bull camp empty on Sally Beauty,on ,0.06733023747801781,neutral,neutral,True
+Bull camp empty on Sally Beauty,Sally ,-0.05906769633293152,neutral,neutral,True
+Bull camp empty on Sally Beauty,Beauty,0.07408395409584045,neutral,neutral,True
+CA$10.60 - That's What Analysts Think Vecima Networks Inc. Is Worth After These Results,CA$,-0.006966903805732727,neutral,neutral,True
+CA$10.60 - That's What Analysts Think Vecima Networks Inc. Is Worth After These Results,10.,0.028465889394283295,neutral,neutral,True
+CA$10.60 - That's What Analysts Think Vecima Networks Inc. Is Worth After These Results,60 - ,0.06289866007864475,neutral,neutral,True
+CA$10.60 - That's What Analysts Think Vecima Networks Inc. Is Worth After These Results,That',-0.0746022928506136,neutral,neutral,True
+CA$10.60 - That's What Analysts Think Vecima Networks Inc. Is Worth After These Results,s ,0.02853876631706953,neutral,neutral,True
+CA$10.60 - That's What Analysts Think Vecima Networks Inc. Is Worth After These Results,What ,0.153989901766181,neutral,neutral,True
+CA$10.60 - That's What Analysts Think Vecima Networks Inc. Is Worth After These Results,Analysts ,-0.07054276159033179,neutral,neutral,True
+CA$10.60 - That's What Analysts Think Vecima Networks Inc. Is Worth After These Results,Think ,-0.11247190786525607,neutral,neutral,True
+CA$10.60 - That's What Analysts Think Vecima Networks Inc. Is Worth After These Results,Vecima ,0.0665675587952137,neutral,neutral,True
+CA$10.60 - That's What Analysts Think Vecima Networks Inc. Is Worth After These Results,Networks ,0.01907438039779663,neutral,neutral,True
+CA$10.60 - That's What Analysts Think Vecima Networks Inc. Is Worth After These Results,Inc. ,0.06667951308190823,neutral,neutral,True
+CA$10.60 - That's What Analysts Think Vecima Networks Inc. Is Worth After These Results,Is ,-0.13667372800409794,neutral,neutral,True
+CA$10.60 - That's What Analysts Think Vecima Networks Inc. Is Worth After These Results,Worth ,-0.12352201342582703,neutral,neutral,True
+CA$10.60 - That's What Analysts Think Vecima Networks Inc. Is Worth After These Results,After ,-0.05681177228689194,neutral,neutral,True
+CA$10.60 - That's What Analysts Think Vecima Networks Inc. Is Worth After These Results,These ,0.08788629621267319,neutral,neutral,True
+CA$10.60 - That's What Analysts Think Vecima Networks Inc. Is Worth After These Results,Results,-0.04777227342128754,neutral,neutral,True
+$ESS: BTIG Research cuts to Neutral https://t.co/MCyfTsXc2N,$,-0.06162696331739426,neutral,negative,False
+$ESS: BTIG Research cuts to Neutral https://t.co/MCyfTsXc2N,ESS: ,0.007429525256156921,neutral,negative,False
+$ESS: BTIG Research cuts to Neutral https://t.co/MCyfTsXc2N,BTIG ,0.10540278255939484,neutral,negative,False
+$ESS: BTIG Research cuts to Neutral https://t.co/MCyfTsXc2N,Research ,0.008301027119159698,neutral,negative,False
+$ESS: BTIG Research cuts to Neutral https://t.co/MCyfTsXc2N,cuts ,-0.46243134746327996,neutral,negative,False
+$ESS: BTIG Research cuts to Neutral https://t.co/MCyfTsXc2N,to ,-0.0710212136618793,neutral,negative,False
+$ESS: BTIG Research cuts to Neutral https://t.co/MCyfTsXc2N,Neutral ,-0.016196483746170998,neutral,negative,False
+$ESS: BTIG Research cuts to Neutral https://t.co/MCyfTsXc2N,https://,0.09123545140028,neutral,negative,False
+$ESS: BTIG Research cuts to Neutral https://t.co/MCyfTsXc2N,t.,0.046231732703745365,neutral,negative,False
+$ESS: BTIG Research cuts to Neutral https://t.co/MCyfTsXc2N,co/,-0.0021642791107296944,neutral,negative,False
+$ESS: BTIG Research cuts to Neutral https://t.co/MCyfTsXc2N,MCyfTsXc2N,0.026556815952062607,neutral,negative,False
+$FTI - TechnipFMC downgraded at Berenberg but called Top Pick at Deutsche Bank https://t.co/XKcPDilIuU,$,-0.05521153542213142,neutral,negative,False
+$FTI - TechnipFMC downgraded at Berenberg but called Top Pick at Deutsche Bank https://t.co/XKcPDilIuU,FTI - ,-0.0033468317706137896,neutral,negative,False
+$FTI - TechnipFMC downgraded at Berenberg but called Top Pick at Deutsche Bank https://t.co/XKcPDilIuU,TechnipFMC ,-0.00965532404370606,neutral,negative,False
+$FTI - TechnipFMC downgraded at Berenberg but called Top Pick at Deutsche Bank https://t.co/XKcPDilIuU,downgraded ,-0.49393129418604076,neutral,negative,False
+$FTI - TechnipFMC downgraded at Berenberg but called Top Pick at Deutsche Bank https://t.co/XKcPDilIuU,at ,-0.00044739339500665665,neutral,negative,False
+$FTI - TechnipFMC downgraded at Berenberg but called Top Pick at Deutsche Bank https://t.co/XKcPDilIuU,Berenberg ,0.10230208560824394,neutral,negative,False
+$FTI - TechnipFMC downgraded at Berenberg but called Top Pick at Deutsche Bank https://t.co/XKcPDilIuU,but ,0.14831626322120428,neutral,negative,False
+$FTI - TechnipFMC downgraded at Berenberg but called Top Pick at Deutsche Bank https://t.co/XKcPDilIuU,called ,0.09473577584140003,neutral,negative,False
+$FTI - TechnipFMC downgraded at Berenberg but called Top Pick at Deutsche Bank https://t.co/XKcPDilIuU,Top ,-0.09767642035149038,neutral,negative,False
+$FTI - TechnipFMC downgraded at Berenberg but called Top Pick at Deutsche Bank https://t.co/XKcPDilIuU,Pick ,-0.06354411505162716,neutral,negative,False
+$FTI - TechnipFMC downgraded at Berenberg but called Top Pick at Deutsche Bank https://t.co/XKcPDilIuU,at ,0.03646784368902445,neutral,negative,False
+$FTI - TechnipFMC downgraded at Berenberg but called Top Pick at Deutsche Bank https://t.co/XKcPDilIuU,Deutsche ,0.05490464810281992,neutral,negative,False
+$FTI - TechnipFMC downgraded at Berenberg but called Top Pick at Deutsche Bank https://t.co/XKcPDilIuU,Bank ,-0.02359734708443284,neutral,negative,False
+$FTI - TechnipFMC downgraded at Berenberg but called Top Pick at Deutsche Bank https://t.co/XKcPDilIuU,https://,0.08243434294126928,neutral,negative,False
+$FTI - TechnipFMC downgraded at Berenberg but called Top Pick at Deutsche Bank https://t.co/XKcPDilIuU,t.,0.051249398617073894,neutral,negative,False
+$FTI - TechnipFMC downgraded at Berenberg but called Top Pick at Deutsche Bank https://t.co/XKcPDilIuU,co/,-0.03649801015853882,neutral,negative,False
+$FTI - TechnipFMC downgraded at Berenberg but called Top Pick at Deutsche Bank https://t.co/XKcPDilIuU,XKcPDilIuU,0.039841449819505215,neutral,negative,False
+$GM: Deutsche Bank cuts to Hold https://t.co/7Fv1ZiFZBS,$,-0.017535097897052765,neutral,negative,False
+$GM: Deutsche Bank cuts to Hold https://t.co/7Fv1ZiFZBS,GM: ,-0.018549539148807526,neutral,negative,False
+$GM: Deutsche Bank cuts to Hold https://t.co/7Fv1ZiFZBS,Deutsche ,-0.0022988170385360718,neutral,negative,False
+$GM: Deutsche Bank cuts to Hold https://t.co/7Fv1ZiFZBS,Bank ,-0.03386503458023071,neutral,negative,False
+$GM: Deutsche Bank cuts to Hold https://t.co/7Fv1ZiFZBS,cuts ,-0.4839315281715244,neutral,negative,False
+$GM: Deutsche Bank cuts to Hold https://t.co/7Fv1ZiFZBS,to ,0.06867976277135313,neutral,negative,False
+$GM: Deutsche Bank cuts to Hold https://t.co/7Fv1ZiFZBS,Hold ,0.1559975491836667,neutral,negative,False
+$GM: Deutsche Bank cuts to Hold https://t.co/7Fv1ZiFZBS,https://,0.0976192494854331,neutral,negative,False
+$GM: Deutsche Bank cuts to Hold https://t.co/7Fv1ZiFZBS,t.,0.012945286929607391,neutral,negative,False
+$GM: Deutsche Bank cuts to Hold https://t.co/7Fv1ZiFZBS,co/,0.006478443741798401,neutral,negative,False
+$GM: Deutsche Bank cuts to Hold https://t.co/7Fv1ZiFZBS,7Fv1ZiFZBS,0.022360868752002716,neutral,negative,False
+$HOG - Moody's warns on Harley-Davidson https://t.co/LurHBEadeU,$,-0.02481667115353048,neutral,negative,False
+$HOG - Moody's warns on Harley-Davidson https://t.co/LurHBEadeU,HOG - ,-0.006909408373758197,neutral,negative,False
+$HOG - Moody's warns on Harley-Davidson https://t.co/LurHBEadeU,Moody',-0.04299246543087065,neutral,negative,False
+$HOG - Moody's warns on Harley-Davidson https://t.co/LurHBEadeU,s ,0.047951571410521865,neutral,negative,False
+$HOG - Moody's warns on Harley-Davidson https://t.co/LurHBEadeU,warns ,-0.28868441726081073,neutral,negative,False
+$HOG - Moody's warns on Harley-Davidson https://t.co/LurHBEadeU,on ,-0.07447345624677837,neutral,negative,False
+$HOG - Moody's warns on Harley-Davidson https://t.co/LurHBEadeU,Harley-,-0.047601670725271106,neutral,negative,False
+$HOG - Moody's warns on Harley-Davidson https://t.co/LurHBEadeU,Davidson ,0.012840165989473462,neutral,negative,False
+$HOG - Moody's warns on Harley-Davidson https://t.co/LurHBEadeU,https://,0.38938358100131154,neutral,negative,False
+$HOG - Moody's warns on Harley-Davidson https://t.co/LurHBEadeU,t.,-0.03102455986663699,neutral,negative,False
+$HOG - Moody's warns on Harley-Davidson https://t.co/LurHBEadeU,co/,0.03467020997777581,neutral,negative,False
+$HOG - Moody's warns on Harley-Davidson https://t.co/LurHBEadeU,LurHBEadeU,0.08592244097962976,neutral,negative,False
+$KRG: Compass Point cuts to Sell https://t.co/MCyfTsXc2N,$,-0.043870773166418076,neutral,negative,False
+$KRG: Compass Point cuts to Sell https://t.co/MCyfTsXc2N,KRG: ,-0.08997170254588127,neutral,negative,False
+$KRG: Compass Point cuts to Sell https://t.co/MCyfTsXc2N,Compass ,-0.0446908064186573,neutral,negative,False
+$KRG: Compass Point cuts to Sell https://t.co/MCyfTsXc2N,Point ,-0.06006746366620064,neutral,negative,False
+$KRG: Compass Point cuts to Sell https://t.co/MCyfTsXc2N,cuts ,-0.5056545652914792,neutral,negative,False
+$KRG: Compass Point cuts to Sell https://t.co/MCyfTsXc2N,to ,0.0071751761715859175,neutral,negative,False
+$KRG: Compass Point cuts to Sell https://t.co/MCyfTsXc2N,Sell ,0.16101878671906888,neutral,negative,False
+$KRG: Compass Point cuts to Sell https://t.co/MCyfTsXc2N,https://,0.08767812210135162,neutral,negative,False
+$KRG: Compass Point cuts to Sell https://t.co/MCyfTsXc2N,t.,0.03919088188558817,neutral,negative,False
+$KRG: Compass Point cuts to Sell https://t.co/MCyfTsXc2N,co/,0.03769062180072069,neutral,negative,False
+$KRG: Compass Point cuts to Sell https://t.co/MCyfTsXc2N,MCyfTsXc2N,0.014104770496487617,neutral,negative,False
+$LK - Muddy Waters goes short Luckin Coffee https://t.co/8yrbwAjLKG,$,-0.14981067134067416,neutral,negative,False
+$LK - Muddy Waters goes short Luckin Coffee https://t.co/8yrbwAjLKG,LK - ,0.03992427187040448,neutral,negative,False
+$LK - Muddy Waters goes short Luckin Coffee https://t.co/8yrbwAjLKG,Muddy ,-0.04234600067138672,neutral,negative,False
+$LK - Muddy Waters goes short Luckin Coffee https://t.co/8yrbwAjLKG,Waters ,-0.00949528906494379,neutral,negative,False
+$LK - Muddy Waters goes short Luckin Coffee https://t.co/8yrbwAjLKG,goes ,-0.16613362962380052,neutral,negative,False
+$LK - Muddy Waters goes short Luckin Coffee https://t.co/8yrbwAjLKG,short ,-0.22909788275137544,neutral,negative,False
+$LK - Muddy Waters goes short Luckin Coffee https://t.co/8yrbwAjLKG,Luckin ,0.1590148345567286,neutral,negative,False
+$LK - Muddy Waters goes short Luckin Coffee https://t.co/8yrbwAjLKG,Coffee ,0.03789522359147668,neutral,negative,False
+$LK - Muddy Waters goes short Luckin Coffee https://t.co/8yrbwAjLKG,https://,0.17522422596812248,neutral,negative,False
+$LK - Muddy Waters goes short Luckin Coffee https://t.co/8yrbwAjLKG,t.,0.04112304374575615,neutral,negative,False
+$LK - Muddy Waters goes short Luckin Coffee https://t.co/8yrbwAjLKG,co/,0.022858470678329468,neutral,negative,False
+$LK - Muddy Waters goes short Luckin Coffee https://t.co/8yrbwAjLKG,8yrbwAjLKG,0.03646772354841232,neutral,negative,False
+$MDCO: Oppenheimer cuts to Perform,$,-0.05419401824474335,neutral,negative,False
+$MDCO: Oppenheimer cuts to Perform,MDCO: ,-0.01303660124540329,neutral,negative,False
+$MDCO: Oppenheimer cuts to Perform,Oppenheimer ,0.16183911310508847,neutral,negative,False
+$MDCO: Oppenheimer cuts to Perform,cuts ,-0.6135698487050831,neutral,negative,False
+$MDCO: Oppenheimer cuts to Perform,to ,-0.024254638701677322,neutral,negative,False
+$MDCO: Oppenheimer cuts to Perform,Perform,0.09643826261162758,neutral,negative,False
+$MTLS - Piper hits the Materialise sidelines https://t.co/qlFxZuhkrt,$,-0.03697266988456249,neutral,negative,False
+$MTLS - Piper hits the Materialise sidelines https://t.co/qlFxZuhkrt,MTLS - ,-0.02463302481919527,neutral,negative,False
+$MTLS - Piper hits the Materialise sidelines https://t.co/qlFxZuhkrt,Piper ,-0.04879031842574477,neutral,negative,False
+$MTLS - Piper hits the Materialise sidelines https://t.co/qlFxZuhkrt,hits ,-0.4861933155916631,neutral,negative,False
+$MTLS - Piper hits the Materialise sidelines https://t.co/qlFxZuhkrt,the ,0.18609005631878972,neutral,negative,False
+$MTLS - Piper hits the Materialise sidelines https://t.co/qlFxZuhkrt,Materialise ,-0.0982205094769597,neutral,negative,False
+$MTLS - Piper hits the Materialise sidelines https://t.co/qlFxZuhkrt,sidelines ,0.03413766669109464,neutral,negative,False
+$MTLS - Piper hits the Materialise sidelines https://t.co/qlFxZuhkrt,https://,0.1719256779178977,neutral,negative,False
+$MTLS - Piper hits the Materialise sidelines https://t.co/qlFxZuhkrt,t.,0.0032573037315160036,neutral,negative,False
+$MTLS - Piper hits the Materialise sidelines https://t.co/qlFxZuhkrt,co/,-0.0024410400073975325,neutral,negative,False
+$MTLS - Piper hits the Materialise sidelines https://t.co/qlFxZuhkrt,qlFxZuhkrt,-0.011078131850808859,neutral,negative,False
+$NFLX - New Netflix bear steps out https://t.co/PdPkgLk0FQ,$,-0.020335912704467773,neutral,negative,False
+$NFLX - New Netflix bear steps out https://t.co/PdPkgLk0FQ,NFLX - ,0.033881425857543945,neutral,negative,False
+$NFLX - New Netflix bear steps out https://t.co/PdPkgLk0FQ,New ,-0.012881480157375336,neutral,negative,False
+$NFLX - New Netflix bear steps out https://t.co/PdPkgLk0FQ,Netflix ,0.03147350996732712,neutral,negative,False
+$NFLX - New Netflix bear steps out https://t.co/PdPkgLk0FQ,bear ,0.03072352334856987,neutral,negative,False
+$NFLX - New Netflix bear steps out https://t.co/PdPkgLk0FQ,steps ,-0.05038124695420265,neutral,negative,False
+$NFLX - New Netflix bear steps out https://t.co/PdPkgLk0FQ,out ,-0.0413089394569397,neutral,negative,False
+$NFLX - New Netflix bear steps out https://t.co/PdPkgLk0FQ,https://,0.06278824061155319,neutral,negative,False
+$NFLX - New Netflix bear steps out https://t.co/PdPkgLk0FQ,t.,0.012078937143087387,neutral,negative,False
+$NFLX - New Netflix bear steps out https://t.co/PdPkgLk0FQ,co/,0.01045529916882515,neutral,negative,False
+$NFLX - New Netflix bear steps out https://t.co/PdPkgLk0FQ,PdPkgLk0FQ,-0.0022892504930496216,neutral,negative,False
+$ALTG: Dougherty & Company starts at Buy,$,-0.015177808701992035,neutral,positive,False
+$ALTG: Dougherty & Company starts at Buy,ALTG: ,0.023350439965724945,neutral,positive,False
+$ALTG: Dougherty & Company starts at Buy,Dougherty & ,0.02435421198606491,neutral,positive,False
+$ALTG: Dougherty & Company starts at Buy,Company ,0.004550077021121979,neutral,positive,False
+$ALTG: Dougherty & Company starts at Buy,starts ,-0.013197571039199829,neutral,positive,False
+$ALTG: Dougherty & Company starts at Buy,at ,0.03139251470565796,neutral,positive,False
+$ALTG: Dougherty & Company starts at Buy,Buy,0.016690194606781006,neutral,positive,False
+$BHE: Lake Street starts at Buy,$,-0.01758958399295807,neutral,positive,False
+$BHE: Lake Street starts at Buy,BHE: ,0.023862004280090332,neutral,positive,False
+$BHE: Lake Street starts at Buy,Lake ,0.0028352439403533936,neutral,positive,False
+$BHE: Lake Street starts at Buy,Street ,-0.007275298237800598,neutral,positive,False
+$BHE: Lake Street starts at Buy,starts ,-0.03670370578765869,neutral,positive,False
+$BHE: Lake Street starts at Buy,at ,0.053801313042640686,neutral,positive,False
+$BHE: Lake Street starts at Buy,Buy,0.017787441611289978,neutral,positive,False
+$FLXN: BTIG Research starts at Buy https://t.co/MCyfTsXc2N,$,-0.01058117300271988,neutral,positive,False
+$FLXN: BTIG Research starts at Buy https://t.co/MCyfTsXc2N,FLXN: ,0.0252491757273674,neutral,positive,False
+$FLXN: BTIG Research starts at Buy https://t.co/MCyfTsXc2N,BTIG ,0.012946859002113342,neutral,positive,False
+$FLXN: BTIG Research starts at Buy https://t.co/MCyfTsXc2N,Research ,0.003019094467163086,neutral,positive,False
+$FLXN: BTIG Research starts at Buy https://t.co/MCyfTsXc2N,starts ,-0.015610117465257645,neutral,positive,False
+$FLXN: BTIG Research starts at Buy https://t.co/MCyfTsXc2N,at ,0.010112721472978592,neutral,positive,False
+$FLXN: BTIG Research starts at Buy https://t.co/MCyfTsXc2N,Buy ,-0.0002000369131565094,neutral,positive,False
+$FLXN: BTIG Research starts at Buy https://t.co/MCyfTsXc2N,https://,0.011942658573389053,neutral,positive,False
+$FLXN: BTIG Research starts at Buy https://t.co/MCyfTsXc2N,t.,0.0005960315465927124,neutral,positive,False
+$FLXN: BTIG Research starts at Buy https://t.co/MCyfTsXc2N,co/,0.006015025079250336,neutral,positive,False
+$FLXN: BTIG Research starts at Buy https://t.co/MCyfTsXc2N,MCyfTsXc2N,0.011694066226482391,neutral,positive,False
+"$FNV - Franco-Nevada will not need more funding despite suspensions, analyst says https://t.co/pyARTEahWH",$,-0.03487484622746706,neutral,positive,False
+"$FNV - Franco-Nevada will not need more funding despite suspensions, analyst says https://t.co/pyARTEahWH",FNV - ,-0.03590563219040632,neutral,positive,False
+"$FNV - Franco-Nevada will not need more funding despite suspensions, analyst says https://t.co/pyARTEahWH",Franco-,-0.04566026292741299,neutral,positive,False
+"$FNV - Franco-Nevada will not need more funding despite suspensions, analyst says https://t.co/pyARTEahWH",Nevada ,0.012539384886622429,neutral,positive,False
+"$FNV - Franco-Nevada will not need more funding despite suspensions, analyst says https://t.co/pyARTEahWH",will ,0.008324981201440096,neutral,positive,False
+"$FNV - Franco-Nevada will not need more funding despite suspensions, analyst says https://t.co/pyARTEahWH",not ,0.03153962595388293,neutral,positive,False
+"$FNV - Franco-Nevada will not need more funding despite suspensions, analyst says https://t.co/pyARTEahWH",need ,0.05450531421229243,neutral,positive,False
+"$FNV - Franco-Nevada will not need more funding despite suspensions, analyst says https://t.co/pyARTEahWH",more ,-0.044644910376518965,neutral,positive,False
+"$FNV - Franco-Nevada will not need more funding despite suspensions, analyst says https://t.co/pyARTEahWH",funding ,-0.08326674136333168,neutral,positive,False
+"$FNV - Franco-Nevada will not need more funding despite suspensions, analyst says https://t.co/pyARTEahWH",despite ,0.036470543360337615,neutral,positive,False
+"$FNV - Franco-Nevada will not need more funding despite suspensions, analyst says https://t.co/pyARTEahWH","suspensions, ",-0.3173564081080258,neutral,positive,False
+"$FNV - Franco-Nevada will not need more funding despite suspensions, analyst says https://t.co/pyARTEahWH",analyst ,-0.0661366623826325,neutral,positive,False
+"$FNV - Franco-Nevada will not need more funding despite suspensions, analyst says https://t.co/pyARTEahWH",says ,-0.13020722195506096,neutral,positive,False
+"$FNV - Franco-Nevada will not need more funding despite suspensions, analyst says https://t.co/pyARTEahWH",https://,0.12814946100115776,neutral,positive,False
+"$FNV - Franco-Nevada will not need more funding despite suspensions, analyst says https://t.co/pyARTEahWH",t.,0.029238772578537464,neutral,positive,False
+"$FNV - Franco-Nevada will not need more funding despite suspensions, analyst says https://t.co/pyARTEahWH",co/,-0.007146465592086315,neutral,positive,False
+"$FNV - Franco-Nevada will not need more funding despite suspensions, analyst says https://t.co/pyARTEahWH",pyARTEahWH,0.0064135100692510605,neutral,positive,False
+$GBT: Cantor Fitzgerald resumes at Overweight,$,-0.07758291065692902,neutral,positive,False
+$GBT: Cantor Fitzgerald resumes at Overweight,GBT: ,0.09193602204322815,neutral,positive,False
+$GBT: Cantor Fitzgerald resumes at Overweight,Cantor ,-0.02610842138528824,neutral,positive,False
+$GBT: Cantor Fitzgerald resumes at Overweight,Fitzgerald ,-0.051360733807086945,neutral,positive,False
+$GBT: Cantor Fitzgerald resumes at Overweight,resumes ,-0.23378673568367958,neutral,positive,False
+$GBT: Cantor Fitzgerald resumes at Overweight,at ,0.12140915170311928,neutral,positive,False
+$GBT: Cantor Fitzgerald resumes at Overweight,Overweight,-0.07085070013999939,neutral,positive,False
+$GM - Morgan Stanley sees GM doubling in bull case scenario https://t.co/uNK2xzGQuq,$,-0.04171277803834528,negative,positive,False
+$GM - Morgan Stanley sees GM doubling in bull case scenario https://t.co/uNK2xzGQuq,GM - ,-0.05254721350502223,negative,positive,False
+$GM - Morgan Stanley sees GM doubling in bull case scenario https://t.co/uNK2xzGQuq,Morgan ,-0.006164384889416397,negative,positive,False
+$GM - Morgan Stanley sees GM doubling in bull case scenario https://t.co/uNK2xzGQuq,Stanley ,0.022579332464374602,negative,positive,False
+$GM - Morgan Stanley sees GM doubling in bull case scenario https://t.co/uNK2xzGQuq,sees ,0.10655881022103131,negative,positive,False
+$GM - Morgan Stanley sees GM doubling in bull case scenario https://t.co/uNK2xzGQuq,GM ,-0.0532036661170423,negative,positive,False
+$GM - Morgan Stanley sees GM doubling in bull case scenario https://t.co/uNK2xzGQuq,doubling ,0.22658996330574155,negative,positive,False
+$GM - Morgan Stanley sees GM doubling in bull case scenario https://t.co/uNK2xzGQuq,in ,-0.014598252950236201,negative,positive,False
+$GM - Morgan Stanley sees GM doubling in bull case scenario https://t.co/uNK2xzGQuq,bull ,0.12244560662657022,negative,positive,False
+$GM - Morgan Stanley sees GM doubling in bull case scenario https://t.co/uNK2xzGQuq,case ,0.10202823067083955,negative,positive,False
+$GM - Morgan Stanley sees GM doubling in bull case scenario https://t.co/uNK2xzGQuq,scenario ,-0.030018588295206428,negative,positive,False
+$GM - Morgan Stanley sees GM doubling in bull case scenario https://t.co/uNK2xzGQuq,https://,-0.028159837936982512,negative,positive,False
+$GM - Morgan Stanley sees GM doubling in bull case scenario https://t.co/uNK2xzGQuq,t.,0.023278596228919923,negative,positive,False
+$GM - Morgan Stanley sees GM doubling in bull case scenario https://t.co/uNK2xzGQuq,co/,0.011354709626175463,negative,positive,False
+$GM - Morgan Stanley sees GM doubling in bull case scenario https://t.co/uNK2xzGQuq,uNK2xzGQuq,-0.014373756013810635,negative,positive,False
+$GOOS: Barclays starts at Overweight,$,0.035649869590997696,neutral,positive,False
+$GOOS: Barclays starts at Overweight,GOOS: ,-0.07813869789242744,neutral,positive,False
+$GOOS: Barclays starts at Overweight,Barclays ,0.03579503297805786,neutral,positive,False
+$GOOS: Barclays starts at Overweight,starts ,-0.02099330723285675,neutral,positive,False
+$GOOS: Barclays starts at Overweight,at ,0.017683327198028564,neutral,positive,False
+$GOOS: Barclays starts at Overweight,Overweight,-0.01189538836479187,neutral,positive,False
+"$JD - New https://t.co/BDnqOJSFq5 bull praises acceleration, margin profile https://t.co/Swtzl0mjnF",$,-0.02310708537697792,neutral,positive,False
+"$JD - New https://t.co/BDnqOJSFq5 bull praises acceleration, margin profile https://t.co/Swtzl0mjnF",JD - ,-0.010919515043497086,neutral,positive,False
+"$JD - New https://t.co/BDnqOJSFq5 bull praises acceleration, margin profile https://t.co/Swtzl0mjnF",New ,-0.0202200785279274,neutral,positive,False
+"$JD - New https://t.co/BDnqOJSFq5 bull praises acceleration, margin profile https://t.co/Swtzl0mjnF",https://,0.05165109038352966,neutral,positive,False
+"$JD - New https://t.co/BDnqOJSFq5 bull praises acceleration, margin profile https://t.co/Swtzl0mjnF",t.,0.002611696720123291,neutral,positive,False
+"$JD - New https://t.co/BDnqOJSFq5 bull praises acceleration, margin profile https://t.co/Swtzl0mjnF",co/,0.011255376040935516,neutral,positive,False
+"$JD - New https://t.co/BDnqOJSFq5 bull praises acceleration, margin profile https://t.co/Swtzl0mjnF",BDnqOJSFq5 ,0.010565370321273804,neutral,positive,False
+"$JD - New https://t.co/BDnqOJSFq5 bull praises acceleration, margin profile https://t.co/Swtzl0mjnF",bull ,-0.00047601014375686646,neutral,positive,False
+"$JD - New https://t.co/BDnqOJSFq5 bull praises acceleration, margin profile https://t.co/Swtzl0mjnF",praises ,0.005271729081869125,neutral,positive,False
+"$JD - New https://t.co/BDnqOJSFq5 bull praises acceleration, margin profile https://t.co/Swtzl0mjnF","acceleration, ",-0.005107227712869644,neutral,positive,False
+"$JD - New https://t.co/BDnqOJSFq5 bull praises acceleration, margin profile https://t.co/Swtzl0mjnF",margin ,-0.025811508297920227,neutral,positive,False
+"$JD - New https://t.co/BDnqOJSFq5 bull praises acceleration, margin profile https://t.co/Swtzl0mjnF",profile ,0.023763112723827362,neutral,positive,False
+"$JD - New https://t.co/BDnqOJSFq5 bull praises acceleration, margin profile https://t.co/Swtzl0mjnF",https://,0.014306984841823578,neutral,positive,False
+"$JD - New https://t.co/BDnqOJSFq5 bull praises acceleration, margin profile https://t.co/Swtzl0mjnF",t.,0.00276947021484375,neutral,positive,False
+"$JD - New https://t.co/BDnqOJSFq5 bull praises acceleration, margin profile https://t.co/Swtzl0mjnF",co/,0.006318006664514542,neutral,positive,False
+"$JD - New https://t.co/BDnqOJSFq5 bull praises acceleration, margin profile https://t.co/Swtzl0mjnF",Swtzl0mjnF,0.005648735910654068,neutral,positive,False
+$KHC - JPMorgan constructive on Kraft Heinz https://t.co/Sp4I2ehAVw,$,-0.028561167418956757,neutral,positive,False
+$KHC - JPMorgan constructive on Kraft Heinz https://t.co/Sp4I2ehAVw,KHC - ,0.004465706646442413,neutral,positive,False
+$KHC - JPMorgan constructive on Kraft Heinz https://t.co/Sp4I2ehAVw,JPMorgan ,0.0300750732421875,neutral,positive,False
+$KHC - JPMorgan constructive on Kraft Heinz https://t.co/Sp4I2ehAVw,constructive ,-0.005867674946784973,neutral,positive,False
+$KHC - JPMorgan constructive on Kraft Heinz https://t.co/Sp4I2ehAVw,on ,-0.04363856464624405,neutral,positive,False
+$KHC - JPMorgan constructive on Kraft Heinz https://t.co/Sp4I2ehAVw,Kraft ,-0.039624787867069244,neutral,positive,False
+$KHC - JPMorgan constructive on Kraft Heinz https://t.co/Sp4I2ehAVw,Heinz ,0.03077402338385582,neutral,positive,False
+$KHC - JPMorgan constructive on Kraft Heinz https://t.co/Sp4I2ehAVw,https://,0.06900827959179878,neutral,positive,False
+$KHC - JPMorgan constructive on Kraft Heinz https://t.co/Sp4I2ehAVw,t.,0.00603644922375679,neutral,positive,False
+$KHC - JPMorgan constructive on Kraft Heinz https://t.co/Sp4I2ehAVw,co/,0.011225227266550064,neutral,positive,False
+$KHC - JPMorgan constructive on Kraft Heinz https://t.co/Sp4I2ehAVw,Sp4I2ehAVw,0.017194576561450958,neutral,positive,False
+Arex Capital ramps up pressure on Zagg,Arex ,-0.0426913748960942,positive,neutral,False
+Arex Capital ramps up pressure on Zagg,Capital ,-0.020110800629481673,positive,neutral,False
+Arex Capital ramps up pressure on Zagg,ramps ,0.2793227133806795,positive,neutral,False
+Arex Capital ramps up pressure on Zagg,up ,0.4950117233674973,positive,neutral,False
+Arex Capital ramps up pressure on Zagg,pressure ,-0.06535648042336106,positive,neutral,False
+Arex Capital ramps up pressure on Zagg,on ,-0.01614828174933791,positive,neutral,False
+Arex Capital ramps up pressure on Zagg,Zagg,-0.052272360771894455,positive,neutral,False
+Aviation Capital Group Assigned ‘Baa2’ Rating by Moody’s https://t.co/kEKxNfJEgZ https://t.co/5hasUcG1ON,Aviation ,0.044329625088721514,positive,neutral,False
+Aviation Capital Group Assigned ‘Baa2’ Rating by Moody’s https://t.co/kEKxNfJEgZ https://t.co/5hasUcG1ON,Capital ,-0.005714184604585171,positive,neutral,False
+Aviation Capital Group Assigned ‘Baa2’ Rating by Moody’s https://t.co/kEKxNfJEgZ https://t.co/5hasUcG1ON,Group ,0.01798117533326149,positive,neutral,False
+Aviation Capital Group Assigned ‘Baa2’ Rating by Moody’s https://t.co/kEKxNfJEgZ https://t.co/5hasUcG1ON,Assigned ‘,0.19135732064023614,positive,neutral,False
+Aviation Capital Group Assigned ‘Baa2’ Rating by Moody’s https://t.co/kEKxNfJEgZ https://t.co/5hasUcG1ON,Baa2’ ,0.15175791492220014,positive,neutral,False
+Aviation Capital Group Assigned ‘Baa2’ Rating by Moody’s https://t.co/kEKxNfJEgZ https://t.co/5hasUcG1ON,Rating ,0.11119385005440563,positive,neutral,False
+Aviation Capital Group Assigned ‘Baa2’ Rating by Moody’s https://t.co/kEKxNfJEgZ https://t.co/5hasUcG1ON,by ,0.027931116055697203,positive,neutral,False
+Aviation Capital Group Assigned ‘Baa2’ Rating by Moody’s https://t.co/kEKxNfJEgZ https://t.co/5hasUcG1ON,Moody’,-0.03148786840029061,positive,neutral,False
+Aviation Capital Group Assigned ‘Baa2’ Rating by Moody’s https://t.co/kEKxNfJEgZ https://t.co/5hasUcG1ON,s ,0.0804531320463866,positive,neutral,False
+Aviation Capital Group Assigned ‘Baa2’ Rating by Moody’s https://t.co/kEKxNfJEgZ https://t.co/5hasUcG1ON,https://,-0.022431633435189724,positive,neutral,False
+Aviation Capital Group Assigned ‘Baa2’ Rating by Moody’s https://t.co/kEKxNfJEgZ https://t.co/5hasUcG1ON,t.,-0.04592377773951739,positive,neutral,False
+Aviation Capital Group Assigned ‘Baa2’ Rating by Moody’s https://t.co/kEKxNfJEgZ https://t.co/5hasUcG1ON,co/,0.03774741955567151,positive,neutral,False
+Aviation Capital Group Assigned ‘Baa2’ Rating by Moody’s https://t.co/kEKxNfJEgZ https://t.co/5hasUcG1ON,kEKxNfJEgZ ,-0.013044235878624022,positive,neutral,False
+Aviation Capital Group Assigned ‘Baa2’ Rating by Moody’s https://t.co/kEKxNfJEgZ https://t.co/5hasUcG1ON,https://,-0.04459319484885782,positive,neutral,False
+Aviation Capital Group Assigned ‘Baa2’ Rating by Moody’s https://t.co/kEKxNfJEgZ https://t.co/5hasUcG1ON,t.,-0.02036182815209031,positive,neutral,False
+Aviation Capital Group Assigned ‘Baa2’ Rating by Moody’s https://t.co/kEKxNfJEgZ https://t.co/5hasUcG1ON,co/,0.02734998578671366,positive,neutral,False
+Aviation Capital Group Assigned ‘Baa2’ Rating by Moody’s https://t.co/kEKxNfJEgZ https://t.co/5hasUcG1ON,5hasUcG1ON,0.017277953098528087,positive,neutral,False
+"Benzinga's Top Upgrades, Downgrades For December 17, 2019",Benzinga',-0.037727407179772854,negative,neutral,False
+"Benzinga's Top Upgrades, Downgrades For December 17, 2019",s ,-0.006538090296089649,negative,neutral,False
+"Benzinga's Top Upgrades, Downgrades For December 17, 2019",Top ,0.03161411150358617,negative,neutral,False
+"Benzinga's Top Upgrades, Downgrades For December 17, 2019","Upgrades, ",-0.04328625765629113,negative,neutral,False
+"Benzinga's Top Upgrades, Downgrades For December 17, 2019",Downgrades ,0.6904736161231995,negative,neutral,False
+"Benzinga's Top Upgrades, Downgrades For December 17, 2019",For ,0.01271823258139193,negative,neutral,False
+"Benzinga's Top Upgrades, Downgrades For December 17, 2019",December ,0.006013463891576976,negative,neutral,False
+"Benzinga's Top Upgrades, Downgrades For December 17, 2019","17, ",-0.09960605663945898,negative,neutral,False
+"Benzinga's Top Upgrades, Downgrades For December 17, 2019",2019,-0.0405362076126039,negative,neutral,False
+"Benzinga's Top Upgrades, Downgrades For November 25, 2019",Benzinga',-0.03238196577876806,negative,neutral,False
+"Benzinga's Top Upgrades, Downgrades For November 25, 2019",s ,-0.006465260870754719,negative,neutral,False
+"Benzinga's Top Upgrades, Downgrades For November 25, 2019",Top ,0.0347660225816071,negative,neutral,False
+"Benzinga's Top Upgrades, Downgrades For November 25, 2019","Upgrades, ",-0.03758944198489189,negative,neutral,False
+"Benzinga's Top Upgrades, Downgrades For November 25, 2019",Downgrades ,0.6821193168871105,negative,neutral,False
+"Benzinga's Top Upgrades, Downgrades For November 25, 2019",For ,0.03266454301774502,negative,neutral,False
+"Benzinga's Top Upgrades, Downgrades For November 25, 2019",November ,0.018608931510243565,negative,neutral,False
+"Benzinga's Top Upgrades, Downgrades For November 25, 2019","25, ",-0.09896283544367179,negative,neutral,False
+"Benzinga's Top Upgrades, Downgrades For November 25, 2019",2019,-0.05010439327452332,negative,neutral,False
+Global Automotive Tensioner Market 2019-2023 | Growing Adoption of Start-Stop System to Boost Growth | Technavio… https://t.co/xST0VP6IgS,Global ,0.02704691281542182,positive,neutral,False
+Global Automotive Tensioner Market 2019-2023 | Growing Adoption of Start-Stop System to Boost Growth | Technavio… https://t.co/xST0VP6IgS,Automotive ,0.014767223969101906,positive,neutral,False
+Global Automotive Tensioner Market 2019-2023 | Growing Adoption of Start-Stop System to Boost Growth | Technavio… https://t.co/xST0VP6IgS,Tensioner ,0.00806531053967774,positive,neutral,False
+Global Automotive Tensioner Market 2019-2023 | Growing Adoption of Start-Stop System to Boost Growth | Technavio… https://t.co/xST0VP6IgS,Market ,0.018724330933764577,positive,neutral,False
+Global Automotive Tensioner Market 2019-2023 | Growing Adoption of Start-Stop System to Boost Growth | Technavio… https://t.co/xST0VP6IgS,2019-,0.01259425631724298,positive,neutral,False
+Global Automotive Tensioner Market 2019-2023 | Growing Adoption of Start-Stop System to Boost Growth | Technavio… https://t.co/xST0VP6IgS,2023 | ,0.0014135593082755804,positive,neutral,False
+Global Automotive Tensioner Market 2019-2023 | Growing Adoption of Start-Stop System to Boost Growth | Technavio… https://t.co/xST0VP6IgS,Growing ,0.3452290252316743,positive,neutral,False
+Global Automotive Tensioner Market 2019-2023 | Growing Adoption of Start-Stop System to Boost Growth | Technavio… https://t.co/xST0VP6IgS,Adoption ,0.138112896354869,positive,neutral,False
+Global Automotive Tensioner Market 2019-2023 | Growing Adoption of Start-Stop System to Boost Growth | Technavio… https://t.co/xST0VP6IgS,of ,0.023973410832695663,positive,neutral,False
+Global Automotive Tensioner Market 2019-2023 | Growing Adoption of Start-Stop System to Boost Growth | Technavio… https://t.co/xST0VP6IgS,Start-,0.02718686673324555,positive,neutral,False
+Global Automotive Tensioner Market 2019-2023 | Growing Adoption of Start-Stop System to Boost Growth | Technavio… https://t.co/xST0VP6IgS,Stop ,-0.050160637067165226,positive,neutral,False
+Global Automotive Tensioner Market 2019-2023 | Growing Adoption of Start-Stop System to Boost Growth | Technavio… https://t.co/xST0VP6IgS,System ,-0.03482388850534335,positive,neutral,False
+Global Automotive Tensioner Market 2019-2023 | Growing Adoption of Start-Stop System to Boost Growth | Technavio… https://t.co/xST0VP6IgS,to ,0.06366857211105525,positive,neutral,False
+Global Automotive Tensioner Market 2019-2023 | Growing Adoption of Start-Stop System to Boost Growth | Technavio… https://t.co/xST0VP6IgS,Boost ,0.19804177049081773,positive,neutral,False
+Global Automotive Tensioner Market 2019-2023 | Growing Adoption of Start-Stop System to Boost Growth | Technavio… https://t.co/xST0VP6IgS,Growth | ,0.01667695661308244,positive,neutral,False
+Global Automotive Tensioner Market 2019-2023 | Growing Adoption of Start-Stop System to Boost Growth | Technavio… https://t.co/xST0VP6IgS,Technavio… ,0.02851033565821126,positive,neutral,False
+Global Automotive Tensioner Market 2019-2023 | Growing Adoption of Start-Stop System to Boost Growth | Technavio… https://t.co/xST0VP6IgS,https://,-0.03981799818575382,positive,neutral,False
+Global Automotive Tensioner Market 2019-2023 | Growing Adoption of Start-Stop System to Boost Growth | Technavio… https://t.co/xST0VP6IgS,t.,-0.009269419126212597,positive,neutral,False
+Global Automotive Tensioner Market 2019-2023 | Growing Adoption of Start-Stop System to Boost Growth | Technavio… https://t.co/xST0VP6IgS,co/,0.008045923779718578,positive,neutral,False
+Global Automotive Tensioner Market 2019-2023 | Growing Adoption of Start-Stop System to Boost Growth | Technavio… https://t.co/xST0VP6IgS,xST0VP6IgS,-0.030108619830571115,positive,neutral,False
+"Stock Market Update: NVIDIA shares upgraded, Netflix downgraded",Stock ,-0.01868578139692545,negative,neutral,False
+"Stock Market Update: NVIDIA shares upgraded, Netflix downgraded",Market ,0.007805063389241695,negative,neutral,False
+"Stock Market Update: NVIDIA shares upgraded, Netflix downgraded",Update: ,0.11297180294059217,negative,neutral,False
+"Stock Market Update: NVIDIA shares upgraded, Netflix downgraded",NVIDIA ,-0.08475348888896406,negative,neutral,False
+"Stock Market Update: NVIDIA shares upgraded, Netflix downgraded",shares ,-0.06636431708466262,negative,neutral,False
+"Stock Market Update: NVIDIA shares upgraded, Netflix downgraded","upgraded, ",-0.1545095519395545,negative,neutral,False
+"Stock Market Update: NVIDIA shares upgraded, Netflix downgraded",Netflix ,-0.09437415073625743,negative,neutral,False
+"Stock Market Update: NVIDIA shares upgraded, Netflix downgraded",downgraded,0.7030737565364689,negative,neutral,False
+"Top Analyst Upgrades and Downgrades: AbbVie, Biogen, Boeing, Etsy, Gilead, GoPro, Micron, Newmont, Peloton, Pfizer, Valero, Zynga and More",Top ,0.014559964678483084,negative,neutral,False
+"Top Analyst Upgrades and Downgrades: AbbVie, Biogen, Boeing, Etsy, Gilead, GoPro, Micron, Newmont, Peloton, Pfizer, Valero, Zynga and More",Analyst ,0.031242660334100947,negative,neutral,False
+"Top Analyst Upgrades and Downgrades: AbbVie, Biogen, Boeing, Etsy, Gilead, GoPro, Micron, Newmont, Peloton, Pfizer, Valero, Zynga and More",Upgrades ,-0.017488690558820963,negative,neutral,False
+"Top Analyst Upgrades and Downgrades: AbbVie, Biogen, Boeing, Etsy, Gilead, GoPro, Micron, Newmont, Peloton, Pfizer, Valero, Zynga and More",and ,-0.09076464350800961,negative,neutral,False
+"Top Analyst Upgrades and Downgrades: AbbVie, Biogen, Boeing, Etsy, Gilead, GoPro, Micron, Newmont, Peloton, Pfizer, Valero, Zynga and More",Downgrades: ,0.5592315561953001,negative,neutral,False
+"Top Analyst Upgrades and Downgrades: AbbVie, Biogen, Boeing, Etsy, Gilead, GoPro, Micron, Newmont, Peloton, Pfizer, Valero, Zynga and More","AbbVie, ",-0.03823084500618279,negative,neutral,False
+"Top Analyst Upgrades and Downgrades: AbbVie, Biogen, Boeing, Etsy, Gilead, GoPro, Micron, Newmont, Peloton, Pfizer, Valero, Zynga and More","Biogen, ",0.01755366413271986,negative,neutral,False
+"Top Analyst Upgrades and Downgrades: AbbVie, Biogen, Boeing, Etsy, Gilead, GoPro, Micron, Newmont, Peloton, Pfizer, Valero, Zynga and More","Boeing, ",0.01439441679394804,negative,neutral,False
+"Top Analyst Upgrades and Downgrades: AbbVie, Biogen, Boeing, Etsy, Gilead, GoPro, Micron, Newmont, Peloton, Pfizer, Valero, Zynga and More","Etsy, ",0.027752167487051338,negative,neutral,False
+"Top Analyst Upgrades and Downgrades: AbbVie, Biogen, Boeing, Etsy, Gilead, GoPro, Micron, Newmont, Peloton, Pfizer, Valero, Zynga and More","Gilead, ",0.017089320928789675,negative,neutral,False
+"Top Analyst Upgrades and Downgrades: AbbVie, Biogen, Boeing, Etsy, Gilead, GoPro, Micron, Newmont, Peloton, Pfizer, Valero, Zynga and More","GoPro, ",0.020052541280165315,negative,neutral,False
+"Top Analyst Upgrades and Downgrades: AbbVie, Biogen, Boeing, Etsy, Gilead, GoPro, Micron, Newmont, Peloton, Pfizer, Valero, Zynga and More","Micron, ",0.013121167023200542,negative,neutral,False
+"Top Analyst Upgrades and Downgrades: AbbVie, Biogen, Boeing, Etsy, Gilead, GoPro, Micron, Newmont, Peloton, Pfizer, Valero, Zynga and More","Newmont, ",0.03679837315576151,negative,neutral,False
+"Top Analyst Upgrades and Downgrades: AbbVie, Biogen, Boeing, Etsy, Gilead, GoPro, Micron, Newmont, Peloton, Pfizer, Valero, Zynga and More","Peloton, ",0.06580469297477975,negative,neutral,False
+"Top Analyst Upgrades and Downgrades: AbbVie, Biogen, Boeing, Etsy, Gilead, GoPro, Micron, Newmont, Peloton, Pfizer, Valero, Zynga and More","Pfizer, ",-0.0014599947317037731,negative,neutral,False
+"Top Analyst Upgrades and Downgrades: AbbVie, Biogen, Boeing, Etsy, Gilead, GoPro, Micron, Newmont, Peloton, Pfizer, Valero, Zynga and More","Valero, ",0.017401957215042785,negative,neutral,False
+"Top Analyst Upgrades and Downgrades: AbbVie, Biogen, Boeing, Etsy, Gilead, GoPro, Micron, Newmont, Peloton, Pfizer, Valero, Zynga and More",Zynga ,-0.009074725909158587,negative,neutral,False
+"Top Analyst Upgrades and Downgrades: AbbVie, Biogen, Boeing, Etsy, Gilead, GoPro, Micron, Newmont, Peloton, Pfizer, Valero, Zynga and More",and ,0.12236210785340518,negative,neutral,False
+"Top Analyst Upgrades and Downgrades: AbbVie, Biogen, Boeing, Etsy, Gilead, GoPro, Micron, Newmont, Peloton, Pfizer, Valero, Zynga and More",More,-0.005521820276044309,negative,neutral,False
