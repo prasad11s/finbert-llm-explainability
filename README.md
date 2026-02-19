@@ -1,6 +1,12 @@
+
 # FinBERT LLM Explainability: SHAP vs LIME
 
 Applying and comparing two explainability techniques, SHAP and LIME, on FinBERT to understand why a financial sentiment model makes certain predictions.
+
+---
+
+## Live Demo
+Try the app here: [HuggingFace Spaces](https://huggingface.co/spaces/prasad11s/finbert-llm-explainability)
 
 ---
 
